@@ -1,4 +1,4 @@
-package pl.piwowarski.SingletonPatternComparison.SingletonExample;
+package pl.piwowarski.SingletonPatternComparison.SingletonvsFlyweightExample;
 
 // ---------------------------
 // FLYWEIGHT PATTERN
