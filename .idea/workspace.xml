@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da609d95-5516-4c84-b641-80b0776085d3" name="Changes" comment="created an example for Factory pattern, to later compare it with Flyweight. a comparison needs to be illustrative and comprehensive">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/FactoryPatternComparision/FactoryvsFlyweightExample/FlyweightPatternExample/FlyweightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/FactoryPatternComparision/FactoryvsFlyweightExample/FlyweightPatternExample/TreeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/FactoryPatternComparision/FactoryvsFlyweightExample/FlyweightPatternExample/TreeModelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/piwowarski/FactoryPatternComparision/FactoryvsFlyweightExample/FactoryPatternExample/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/FactoryPatternComparision/FactoryvsFlyweightExample/FactoryPatternExample/FactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonExample/ConcreteTreeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonvsFlyweightExample/ConcreteTreeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonExample/GameSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonvsFlyweightExample/GameSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonExample/PatternComparisonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonvsFlyweightExample/PatternComparisonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonExample/TreeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonvsFlyweightExample/TreeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonExample/TreeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/piwowarski/SingletonPatternComparison/SingletonvsFlyweightExample/TreeModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="singleton-vs-flyweight" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LukaszP12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LukaszP12/java-design-pattern-structural-flyweight.git&quot;,
+    &quot;accountId&quot;: &quot;75bfa11a-ade7-4d59-9382-5d999501bb17&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="347OcYdJlE512Jqy9rlDf92gbb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FactoryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlyweightDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FlyweightPatternExample.FlyweightDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;factory-vs-flyweight&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FlyweightPatternExample.FlyweightDemo">
+    <configuration name="FactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FactoryPatternExample.FactoryDemo" />
+      <module name="java-design-pattern-structural-flyweight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FactoryPatternExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyweightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.piwowarski.FlyweightDemo" />
+      <module name="java-design-pattern-structural-flyweight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.piwowarski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyweightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.piwowarski.FlyweightDemo" />
+      <module name="java-design-pattern-structural-flyweight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.piwowarski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Logger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.piwowarski.SingletonPatternComparison.SingletonExample.Logger" />
+      <module name="java-design-pattern-structural-flyweight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.piwowarski.SingletonPatternComparison.SingletonvsFlyweightExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Logger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.piwowarski.SingletonPatternComparison.SingletonExample.Logger" />
+      <module name="java-design-pattern-structural-flyweight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.piwowarski.SingletonPatternComparison.SingletonExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FlyweightPatternExample.FlyweightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FlyweightPatternExample.FlyweightDemo" />
+      <module name="java-design-pattern-structural-flyweight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FlyweightPatternExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FlyweightPatternExample.FlyweightDemo" />
+        <item itemvalue="Application.FactoryDemo" />
+        <item itemvalue="Application.FlyweightDemo" />
+        <item itemvalue="Application.Logger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da609d95-5516-4c84-b641-80b0776085d3" name="Changes" comment="" />
+      <created>1760561225499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760561225499</updated>
+      <workItem from="1760561226834" duration="49000" />
+      <workItem from="1760561295853" duration="4591000" />
+      <workItem from="1760602773703" duration="2445000" />
+      <workItem from="1760624706016" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="Flyweight Pattern in Java, one of the Structural Design Patterns The Flyweight Pattern is used to reduce memory usage or improve performance by sharing common state between multiple objects.">
+      <option name="closed" value="true" />
+      <created>1760562736741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760562736741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first the singleton example">
+      <option name="closed" value="true" />
+      <created>1760563924402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760563924402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="now the Flyweight as comparison, Singleton only has now instance whereas Flyweight - Potentially many instances — but shared and reused based on some key or intrinsic state.">
+      <option name="closed" value="true" />
+      <created>1760565190635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760565190635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created an example for Factory pattern, to later compare it with Flyweight. a comparison needs to be illustrative and comprehensive">
+      <option name="closed" value="true" />
+      <created>1760604222152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760604222152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Flyweight Pattern in Java, one of the Structural Design Patterns The Flyweight Pattern is used to reduce memory usage or improve performance by sharing common state between multiple objects." />
+    <MESSAGE value="first the singleton example" />
+    <MESSAGE value="now the Flyweight as comparison, Singleton only has now instance whereas Flyweight - Potentially many instances — but shared and reused based on some key or intrinsic state." />
+    <MESSAGE value="created an example for Factory pattern, to later compare it with Flyweight. a comparison needs to be illustrative and comprehensive" />
+    <option name="LAST_COMMIT_MESSAGE" value="created an example for Factory pattern, to later compare it with Flyweight. a comparison needs to be illustrative and comprehensive" />
+  </component>
+</project>
