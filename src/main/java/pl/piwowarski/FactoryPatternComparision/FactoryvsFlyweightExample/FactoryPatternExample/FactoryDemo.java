@@ -1,5 +1,6 @@
 package pl.piwowarski.FactoryPatternComparision.FactoryvsFlyweightExample.FactoryPatternExample;
 
+// Factory Pattern
 public class FactoryDemo {
     public static void main(String[] args) {
         System.out.println("=== FACTORY PATTERN ===");
